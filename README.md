@@ -15,5 +15,7 @@ Just Drag and drop the files into the respective .config locations and put the s
 
 Photos:
 ![alt text](https://github.com/QuietALigitDev/Dotfiles/blob/main/ScreenShots/Dreamy-Home1.png?raw=true)
+![alt text](https://github.com/QuietALigitDev/Dotfiles/blob/main/ScreenShots/Dreamy-Home2.png?raw=true)
+![alt text](https://github.com/QuietALigitDev/Dotfiles/blob/main/ScreenShots/Dreamy-Home3.png?raw=true)
 
 Have fun :D
